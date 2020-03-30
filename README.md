@@ -89,5 +89,3 @@ fileName = DownLoadUtils.getFileName(agent, fileName);
 ```
 
 这样设置完成之后就大功告成，这样如果名字带有中文的话，它也能正常显示出来了。
-
-最后再附上`github`[地址](https://github.com/gs-ux/Tomcat-Download)。
